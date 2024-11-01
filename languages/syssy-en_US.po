@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Syssy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-29 15:19+0000\n"
+"PO-Revision-Date: 2020-12-29 15:20+0000\n"
+"Last-Translator: Ingrid Stürmer\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.6"
+
+#: syssy.php:123
+msgid "Active plugins"
+msgstr "Active plugins"
+
+#: syssy.php:143
+msgid "All installed plugins"
+msgstr "All installed plugins"
+
+#: syssy.php:88
+msgid "API key"
+msgstr "API key"
+
+#: syssy.php:76
+msgid "Connect your website with SYSSY"
+msgstr "Connect your website with SYSSY"
+
+#. Author URI of the plugin
+msgid "https://www.syssy.net"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.syssy.net/wordpress/syssy"
+msgstr ""
+
+#: syssy.php:121
+msgid "MySQL Version"
+msgstr "MySQL Version"
+
+#: syssy.php:119
+msgid "PHP Version"
+msgstr "PHP Version"
+
+#: syssy.php:82
+msgid ""
+"Please enter your API key, you can find it in your project settings at SYSSY."
+msgstr ""
+"Please enter your API key, you can find it in your project settings at SYSSY."
+
+#. Description of the plugin
+msgid "Plugin for connecting with SYSSY.net"
+msgstr "Plugin for connecting with SYSSY.net"
+
+#: syssy.php:120
+msgid "Server Software"
+msgstr "Server software"
+
+#. Name of the plugin
+msgid "Syssy"
+msgstr ""
+
+#. Author of the plugin
+msgid "SYSSY Online GmbH"
+msgstr ""
+
+#: syssy.php:117
+msgid "Wordpress and system information"
+msgstr "Wordpress and system information"
+
+#: syssy.php:118
+msgid "Wordpress Version"
+msgstr "Wordpress version"
